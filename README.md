@@ -40,14 +40,14 @@ Installation:
 - Set your pricing on the Pricing page.
 - On the module page, select "NextCloud Provisioning Module".
 - Create 2 Custom fields:
-  1st Field:
-    Name: nextcloud_group (you can also use pipe to beautify it. ex: nextcloud_group|Team Group).
-    Type: Textbox.
-    Ticks: Admin Only (Unless you want your clients to add themselves to administrator group of NextCloud).
-  2nd Field:
-    Name: language (you can also use pipe to beautify it: ex: language|Nextcloud Interface Language).
-    Type: Dropdown.
-    Select Options: en|English,fr|Français,pt_PT|Português (add any languages you want that are also available on NextCloud. Check NextCloud documentation)
-    Ticks: Show on order form.
+  - 1st Field:
+    - Name: nextcloud_group (you can also use pipe to beautify it. ex: nextcloud_group|Team Group).
+    - Type: Textbox.
+    - Ticks: Admin Only (Unless you want your clients to add themselves to administrator group of NextCloud).
+  - 2nd Field:
+    - Name: language (you can also use pipe to beautify it: ex: language|Nextcloud Interface Language).
+    - Type: Dropdown.
+    - Select Options: en|English,fr|Français,pt_PT|Português (add any languages you want that are also available on NextCloud. Check NextCloud documentation)
+    - Ticks: Show on order form.
  - On Configurable Options select the group we created previously.
  - Save and start selling NextCloud.
